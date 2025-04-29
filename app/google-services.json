@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2099839360",
+    "project_id": "streamer-d4289",
+    "storage_bucket": "streamer-d4289.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2099839360:android:4e1d80d172bfe82af10165",
+        "android_client_info": {
+          "package_name": "com.tm.streamer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQK81SEO-C3Bs6-jYRcgVK4cRNq1kRiOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
